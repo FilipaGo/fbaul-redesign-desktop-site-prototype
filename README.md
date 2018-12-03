@@ -24,4 +24,6 @@ In this project, I handled:
 
 👉 Check out the Homepage here — https://filipago.github.io/fbaul-redesign-desktop-site-prototype/
 
+***
+
 Full Case Study coming soon 🚧
