@@ -1,12 +1,12 @@
 # FBAUL Homepage Redesign
 
-## Summary
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/top_mockups.jpg" alt="Faculty of Fine Arts homepage redesign detail" width="1000">
 Homepage redesign detail.
 <br></br>
 </p>
+
+## Summary
 
 Redesign of the Faculty of Fine Arts (Faculdade de Belas-Artes da Universidade de Lisboa) website in order to achieve the following goals:
 
