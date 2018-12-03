@@ -1,4 +1,4 @@
-# FBAUL Homepage Redesign
+# Faculty of Fine Arts Website Redesign
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/top_mockups.jpg" alt="Faculty of Fine Arts homepage redesign detail" width="1000">
@@ -20,7 +20,7 @@ In this project, I handled:
 * Researching;
 * Reorganizing the website’s information architecture;
 * Rethinking the homepage’s content structure;
-* Designing the homepage’s user interface desktop version.
+* Designing the homepage’s user interface (desktop version).
 
 👉 Check out the Homepage here — https://filipago.github.io/fbaul-redesign-desktop-site-prototype/
 
