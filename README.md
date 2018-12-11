@@ -159,7 +159,7 @@ The insights provided by the previous steps helped me rearrange the [new informa
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/info-arch_new_diagram.jpg" alt="New information architecture diagram" width="1000">
-New information architecture diagram.
+New information architecture diagram (main navigation and utility navigation).
 <br></br>
 </p>
 
@@ -168,6 +168,47 @@ I was able to **shorten the main navigation first-level items to 6 options** tha
 To highlight the prestige and credibility of the Institution, I **gave more prominence to the University’s research departments**, laying-out direct links to their about page, researchers page, etc.
 
 I also introduced a new menu option called “Viver” (Living) that displays a set of useful links to information that can **help new students** get a feeling of what it’s like to live in Lisbon, study at the Faculty of Fine Arts and apply for financial support.
+
+## Step 6 — Wireframes
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/wireframes_detail.jpg" alt="Part of the homepage wireframes" width="1000">
+Homepage wireframes details.
+<br></br>
+</p>
+
+After assessing and reorganizing the information architecture, which mainly focused on improving access to the most sought-after contents and highlighting the Institution’s value, I designed [medium-fidelity wireframes](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype/blob/master/_images_readme/wireframes.jpg "Check out the homepage wireframes").
+
+As such, I established 6 main sections for the new homepage that helped me meet this project’s goals.
+
+The **top hero displays news and events’ highlights** instead of banners as these are currently related to ads and thus ignored by the users.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/wireframes_news-events.jpg" alt="Homepage news and events sections" width="1000">
+Homepage news and events sections.
+<br></br>
+</p>
+
+I **separated the news from the events and gave them more prominence** to enhance the website’s credibility and pinpoint the school’s dynamism. Showcasing the fact that the website is permanently updated and that something new is always happening can surely help stimulate interest and captivate new users.
+
+To present the course availability to new students, I used a **quick search** feature that allows them to promptly find courses by area and/or by degree.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/wireframes_school.jpg" alt="Homepage content blocks showing information on the School and some students’ work" width="1000">
+Homepage sections that showcase information about the School and the students’ work.
+<br></br>
+</p>
+
+I also worked on some **teaser blocks that quickly present the Institution to future candidates**, showing a little information about the School and the experience of living in Lisbon.
+
+Dynamically showcasing high-quality **student work** on the Homepage can also help get more course applicants.
+
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/wireframes_footer.jpg" alt="Website footer" width="1000">
+Homepage footer.
+<br></br>
+</p>
+
+The original website’s footer was completely misused. In this redesign, I **capitalized this space by showing quick links to the most visited pages and thus expedite the navigation**. I also added a newsletter subscription form, which was missing, some general contact information, a link to send suggestions and complaints and gave a little more prominence to the social media hyperlinks.
 
 ***
 
