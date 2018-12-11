@@ -250,3 +250,25 @@ Prototyping!
 As this was a one-page mockup, I basically just used InVision to prototype the homepage’s states, like the menu hovers, text and buttons’ hovers, the hero slider, tools, login and search.
 
 👉 You can check out the Homepage prototype here — https://filipago.github.io/fbaul-redesign-desktop-site-prototype/
+
+## End Notes
+
+Redesigning a website that addresses several audiences is hard. Their needs and goals are very different and so is the content they prioritize.
+
+It was my goal to redesign the website to improve its usability, enhance the institution’s credibility, increase the number of website visitors and get more course applicants, but also appeal and enhance the experience for all audiences.
+
+Bearing that in mind, this is my assessment of this project.
+
+### Where I Failed
+Research. Due to limited resources (time), my research was sparse. I wasn’t able to interview candidates, staff, researchers and alumni so my understanding of the target users only rested on students and most decisions were taken upon assumptions.
+
+### Where I Succeeded
+I was able to address the main redesign goals and deliver a homepage that is superior to the original.
+
+### What I Learned
+It’s a lot easier to identify weaknesses than fixing them. But thinking about how we can fix things that aren’t working, is a great learning opportunity and the only way to foster our problem-solving skills.
+
+<p align="center">
+<br></br>
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/end.jpg" alt="Thank You for Reading" width="200">
+</p>
