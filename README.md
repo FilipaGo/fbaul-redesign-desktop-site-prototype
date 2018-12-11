@@ -78,7 +78,7 @@ The [Benchmarking Analysis](https://github.com/FilipaGo/fbaul-redesign-desktop-s
 
 I selected the sample from the list of Erasmus + hosting schools, available on the Faculty of Fine Arts website, high-ranking schools in international university rankings, other well-known Portuguese higher education institutions and well-qualified vocational schools.
 
-The selected institutions fell into one or more of the following categories:
+**The selected institutions fell into one or more of the following categories:**
 
 * Good visual practices;
 * Erasmus + international partners;
@@ -90,7 +90,7 @@ The fold, the main structural blocks and the primary content blocks.
 <br></br>
 </p>
 
-I started out by collecting the data from every institution and taking screenshots of each website homepage (main language version) in order to:
+**I started out by collecting the data from every institution and taking screenshots of each website homepage** (main language version) in order to:
 
 * Pinpoint the fold and analyse the available contents without scrolling;
 * Mark the website’s main structural blocks — header, body and footer;
@@ -103,11 +103,11 @@ The page header is always fully visible above the 768 px. fold, even though its 
 The body’s height also varies, and it’s never fully displayed above the 1080 px. fold. The body is always the longest structural block.
 There doesn’t seem to exist a direct connection between the body’s height and the footer size.
 
-Except for profile navigation, all elements are standard (logo, main navigation, main banner, search box, news and/or events). There is also a pattern as to its location.
+Except for profile navigation, **all elements are standard** (logo, main navigation, main banner, search box, news and/or events). There is also a pattern as to its location.
 
 **The most relevant content blocks like the logo, main navigation, search box and banner (hero) are always above the 768 px. fold.**
 
-Every website has a news section that starts above the 1080 px. fold. It rarely begins above the 768 px. fold and it always surpasses the 1080 px. fold. The number of news is highly variable.
+Every website has a news section that starts above the 1080 px. fold. It rarely begins above the 768 px. fold and it always surpasses the 1080 px. fold. **The number of news is highly variable.**
 
 The logo is always in the header, on the left, even though it varies in size and format.
 
@@ -125,13 +125,49 @@ Most websites have quick links in the body, either shown as text hyperlinks or s
 
 None of the websites displays a sitemap.
 
-All websites are responsive and load in the institution’s head office native language but most have an English version.
+**All websites are responsive** and load in the institution’s head office native language but most have an English version.
 
 The institution’s intranet is usually accessible using login credentials.
 
-Most websites provide links to the school’s social networks.
+**Most websites provide links to the school’s social networks.**
 
 Only one website displays the date of the site’s last update.
+
+## Step 4 — Current Information Architecture and Content Inventory
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/info-arch_original.jpg" alt="Excel screenshot showing part of the original information architecture and content inventory" width="1000">
+Original information architecture and content inventory detail.
+<br></br>
+</p>
+
+Documenting the [original information architecture and contents](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype/raw/master/_docs_readme/information-architecture_original.xlsx "Download the original information architecture and content inventory") showed that the website was quite dense and complex, making it difficult for both current and new users to find the content they needed.
+
+Besides, there were **too many main navigation entries** that had poorly grouped second-level options sometimes leading to repeated content.
+
+The main navigation terminology wasn’t also great and didn’t clearly imply which sub-level options might be accessed when hovering over a menu item.
+
+## Step 5 — New Information Architecture
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/info-arch_new.jpg" alt="Excel screenshot showing part of the new information architecture" width="1000">
+New information architecture detail.
+<br></br>
+</p>
+
+The insights provided by the previous steps helped me rearrange the [new information architecture](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype/raw/master/_docs_readme/information-architecture_new_v04.xlsx "Download the new information architecture") and prioritize content according to the projects’ goals and the users’ needs.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/info-arch_new_diagram.jpg" alt="New information architecture diagram" width="1000">
+New information architecture diagram.
+<br></br>
+</p>
+
+I was able to **shorten the main navigation first-level items to 6 options** that are actually relevant and use a clearer terminology. I also **remodelled the sub-level options** to assure a more intuitive navigation and quicker access to the most sought-after contents, both by current and future students.
+
+To highlight the prestige and credibility of the Institution, I **gave more prominence to the University’s research departments**, laying-out direct links to their about page, researchers page, etc.
+
+I also introduced a new menu option called “Viver” (Living) that displays a set of useful links to information that can **help new students** get a feeling of what it’s like to live in Lisbon, study at the Faculty of Fine Arts and apply for financial support.
 
 ***
 
