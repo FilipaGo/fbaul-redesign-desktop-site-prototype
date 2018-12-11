@@ -8,7 +8,9 @@ Homepage redesign detail.
 
 ## Summary
 
-Redesign of the Faculty of Fine Arts (Faculdade de Belas-Artes da Universidade de Lisboa) website in order to achieve the following goals:
+The website is the most important online presence of any Faculty as it’s the school’s main communication interface with students, candidates, staff, researchers, alumni and the community.
+
+The main goals of this redesign project were:
 
 * Improve the website’s usability;
 * Enhance the perceived credibility of the Institution;
