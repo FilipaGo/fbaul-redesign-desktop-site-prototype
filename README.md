@@ -26,6 +26,18 @@ In this project, I handled:
 
 👉 Check out the Homepage here — https://filipago.github.io/fbaul-redesign-desktop-site-prototype/
 
+## Step 1 — Interviews
+
+I kick-started this project by conducting a couple of short interviews with some students to really **grasp what they use the site for and the main issues they have come across with while using it**.
+
+Most interviewees said the first time they ever used the website they were looking for information on courses and applications. The following times they were mainly looking for information on the school calendar, schedules, course subjects and contacts.
+
+Unfortunately, **the interviews revealed a correlation between the information that is most sought after and the information that is harder to find**. For example, most interviewed students said they had a hard time finding the information they needed on the course subjects, especially when regarding optional subjects, as it spreads across several website pages.
+
+Most students also said that any information regarding enrollment and schedules should be a lot easier to find.
+
+It’s safe to say the website’s information architecture and content strategy needed some rework.
+
 ***
 
 Full Case Study coming soon 🚧
