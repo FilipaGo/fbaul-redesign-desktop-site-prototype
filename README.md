@@ -203,6 +203,7 @@ I also worked on some **teaser blocks that quickly present the Institution to fu
 
 Dynamically showcasing high-quality **student work** on the Homepage can also help get more course applicants.
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/wireframes_footer.jpg" alt="Website footer" width="1000">
 Homepage footer.
 <br></br>
@@ -210,6 +211,42 @@ Homepage footer.
 
 The original website’s footer was completely misused. In this redesign, I **capitalized this space by showing quick links to the most visited pages and thus expedite the navigation**. I also added a newsletter subscription form, which was missing, some general contact information, a link to send suggestions and complaints and gave a little more prominence to the social media hyperlinks.
 
-***
+## Step 7 — Mockups
 
-Full Case Study coming soon 🚧
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/mockups_detail.jpg" alt="Homepage mockups details with open menu" width="1000">
+Homepage mockups details (open menu).
+<br></br>
+</p>
+
+The mockups phase was all about refining a couple of details and the copywriting while respecting the Institution’s visual identity guidelines.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/mockups_full.jpg" alt="Homepage mockup" width="1000">
+Homepage.
+<br></br>
+</p>
+
+I also took the chance to **redesign the utility navigation states and the mega menu**, making sure every internal tool was readily available to students and staff and that the main navigation respected the structure previously set up in the information architecture.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/mockups_states.jpg" alt="Homepage mockup details. Tools, login, search and unfolded mega menu" width="1000">
+Homepage details.
+<br></br>
+</p>
+
+Users can easily access both navigation bars throughout the website as they disappear on scroll down and appear on scroll up.
+
+I fully **restructured the mega menu to streamline the access to important information** and displayed the contents in columns to smooth out pinpointing an option.
+
+## Step 8 — Prototype
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/prototyping.jpg" alt="InVision screenshot showing part of the prototype" width="1000">
+Prototyping!
+<br></br>
+</p>
+
+As this was a one-page mockup, I basically just used InVision to prototype the homepage’s states, like the menu hovers, text and buttons’ hovers, the hero slider, tools, login and search.
+
+👉 You can check out the Homepage prototype here — https://filipago.github.io/fbaul-redesign-desktop-site-prototype/
