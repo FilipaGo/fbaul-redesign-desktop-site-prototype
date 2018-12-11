@@ -66,6 +66,73 @@ New students can also have a hard time moving around campus as there doesn’t s
 
 A user can easily feel lost when using the website and ultimately end up abandoning it due to frustration.
 
+## Step 3 — Benchmarking
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/benchmarking.jpg" alt="A couple of pages from the benchmarking analysis" width="1000">
+Benchmarking details.
+<br></br>
+</p>
+
+The [Benchmarking Analysis](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype/raw/master/_docs_readme/benchmarking_fbaul.pdf "Download the Benchmarking") focused on **8 institutions** with art programmes and other higher education Portuguese public Schools in order to find some common ground (patterns) that could help define the redesign strategy.
+
+I selected the sample from the list of Erasmus + hosting schools, available on the Faculty of Fine Arts website, high-ranking schools in international university rankings, other well-known Portuguese higher education institutions and well-qualified vocational schools.
+
+The selected institutions fell into one or more of the following categories:
+
+* Good visual practices;
+* Erasmus + international partners;
+* Prestigious institutions.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/fbaul-redesign-desktop-site-prototype/master/_images_readme/benchmarking_blocks.jpg" alt="Three pages from the benchmarking analysis showing the fold, the main structural blocks and the elements from the University College for the Creative Arts homepage" width="1000">
+The fold, the main structural blocks and the primary content blocks.
+<br></br>
+</p>
+
+I started out by collecting the data from every institution and taking screenshots of each website homepage (main language version) in order to:
+
+* Pinpoint the fold and analyse the available contents without scrolling;
+* Mark the website’s main structural blocks — header, body and footer;
+* Trace the primary content blocks (elements) — logo, main navigation, profile navigation, search box, main banner, news and events.
+
+There is a clear **connection between the length of the webpage and the size of its structural blocks**. Therefore, it’s good practice to balance the amount of content and the blocks’ vertical size. The contents should also have enough white space (negative space) to favour page scanning.
+
+The page header is always fully visible above the 768 px. fold, even though its size varies a lot.
+
+The body’s height also varies, and it’s never fully displayed above the 1080 px. fold. The body is always the longest structural block.
+There doesn’t seem to exist a direct connection between the body’s height and the footer size.
+
+Except for profile navigation, all elements are standard (logo, main navigation, main banner, search box, news and/or events). There is also a pattern as to its location.
+
+**The most relevant content blocks like the logo, main navigation, search box and banner (hero) are always above the 768 px. fold.**
+
+Every website has a news section that starts above the 1080 px. fold. It rarely begins above the 768 px. fold and it always surpasses the 1080 px. fold. The number of news is highly variable.
+
+The logo is always in the header, on the left, even though it varies in size and format.
+
+Most websites’ main navigation is in the header, horizontally displayed. It usually spreads across the full width of the page or half. It’s always above the 768 px. fold.
+
+All websites have a search box usually on the top right corner, above the 768 px. fold.
+
+**The main navigation first-level options vary from 4 to 12. The menu usually unfolds.**
+
+The main banner (hero) is always visible above the 768 px. fold, full-width, sometimes inside the header, others in the body. It’s usually dynamic.
+
+Most websites have quick links in the body, either shown as text hyperlinks or secondary menus. The footer also capitalizes its space with hyperlinks that mimic some main navigation options.
+
+**There seems to be a pattern when it comes to displaying the school’s contacts in the footer or at least place a link to a contacts page.**
+
+None of the websites displays a sitemap.
+
+All websites are responsive and load in the institution’s head office native language but most have an English version.
+
+The institution’s intranet is usually accessible using login credentials.
+
+Most websites provide links to the school’s social networks.
+
+Only one website displays the date of the site’s last update.
+
 ***
 
 Full Case Study coming soon 🚧
