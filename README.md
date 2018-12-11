@@ -6,6 +6,21 @@ Homepage redesign detail.
 <br></br>
 </p>
 
+📖 <i>`Estimated reading time: 9 minutes (2051 words)`</i>
+
+**Table of Contents**
+
+* [Summary](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#summary)</br>
+* [Step 1 — Interviews](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-1--interviews)</br>
+* [Step 2 — Strengths and Weaknesses Analysis](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-2--strengths-and-weaknesses-analysis)</br>
+* [Step 3 — Benchmarking](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-3--benchmarking)</br>
+* [Step 4 — Current Information Architecture and Content Inventory](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-4--current-information-architecture-and-content-inventory)</br>
+* [Step 5 — New Information Architecture](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-5--new-information-architecture)</br>
+* [Step 6 — Wireframes](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-6--wireframes)</br>
+* [Step 7 — Mockups](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-7--mockups)</br>
+* [Step 8 — Prototype](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#step-8--prototype)</br>
+* [End Notes](https://github.com/FilipaGo/fbaul-redesign-desktop-site-prototype#end-notes)</br>
+
 ## Summary
 
 The website is the most important online presence of any Faculty as it’s the school’s main communication interface with students, candidates, staff, researchers, alumni and the community.
