@@ -270,7 +270,7 @@ As this was a one-page mockup, I basically just used InVision to prototype the h
 
 Redesigning a website that addresses several audiences is hard. Their needs and goals are very different and so is the content they prioritize.
 
-It was my goal to redesign the website to improve its usability, enhance the institution’s credibility, increase the number of website visitors and get more course applicants, but also appeal and enhance the experience for all audiences.
+It was my goal to redesign the website to improve its overall usability, enhance the institution’s credibility, increase the number of website visitors and get more course applicants, but also appeal and enhance the experience for all audiences.
 
 Bearing that in mind, this is my assessment of this project.
 
